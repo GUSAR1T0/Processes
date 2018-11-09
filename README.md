@@ -1,4 +1,4 @@
-# GROUP 3 - Procs
+# Processes
 
 ## Environment
 * node.js - v10.11.0
